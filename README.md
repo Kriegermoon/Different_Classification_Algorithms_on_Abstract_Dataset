@@ -1,0 +1,2 @@
+# Different_Classification_Algorithms_on_Abstract_Dataset
+Using different classification algorithms and comparing them on an abstract dataset
